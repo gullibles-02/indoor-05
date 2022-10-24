@@ -1,10 +1,13 @@
 {
-  "name": "Zk75lw4GhLTIH0BposuS30ixvwwg7PX5xE2kHD1B0h8Yt6kZHH",
+  "name": "สูตรสล็อต - เว็บพนัน bkk999(บีเคเค999) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.6",
   "description": "สูตรสล็อต สล็อตเว็บตรง แต่ว่า สูตรสล็อต BKK999 เว็บพนันออนไลน์ อันดับหนึ่ง Oscar Vip เว็บไซต์ เกมสล็อตออนไลน์ หรือ เว็บไซต์ คาสิโนออนไลน์ ที่กำลังมาแรงที่ส",
   "repository": "https://github.com/gullibles-02/indoor-05",
-  "keywords": ["สูตรสล็อต","สูตรสล็อต BKK999"],
+  "keywords": [
+    "สูตรสล็อต",
+    "สูตรสล็อต BKK999"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
