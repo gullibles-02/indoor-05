@@ -1,10 +1,13 @@
 {
-  "name": "MxbAo25dw3L6XQXmzAlYdtoFajn9E54cz2hHd9jN7vnLxRgGAY",
+  "name": "สูตรบาคาร่า - เว็บพนัน m88(เอ็ม 88) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.7",
   "description": "สูตรบาคาร่า แนะนำให้อ่าน สู่ สูตรบาคาร่า ที่ M88 เว็บพนัน มีเกมพนันทุกชนิด สูตรบาคาร่า Joker Slotxo ฝาก 19 รับ 100 วอเลทล่าสุด 2022 และ ฝาก 30 รับ 100 วอเล",
   "repository": "https://github.com/gullibles-02/indoor-05",
-  "keywords": ["สูตรบาคาร่า","สูตรบาคาร่า M88"],
+  "keywords": [
+    "สูตรบาคาร่า",
+    "สูตรบาคาร่า M88"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
