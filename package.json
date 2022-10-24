@@ -1,10 +1,13 @@
 {
-  "name": "PDBAB51Ht84aGIpa80ZxGNv4ThRKnBEilQQDRrN7cJULacv7sl",
+  "name": "เว็บพนันออนไลน์ - เว็บพนัน letou( เลโต้) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.5",
   "description": "เว็บพนันออนไลน์ เมื่อกล่าวถึงการเดิมพัน สล็อตออนไลน์ โดย เว็บพนันออนไลน์ Letou เว็บพนันออนไลน์ อันดับหนึ่ง ในปัจจุบัน มีการเปิดกว้างมากขึ้น เว็บพนันออนไลน์",
   "repository": "https://github.com/gullibles-02/indoor-05",
-  "keywords": ["เว็บพนันออนไลน์","เว็บพนันออนไลน์ Letou"],
+  "keywords": [
+    "เว็บพนันออนไลน์",
+    "เว็บพนันออนไลน์ Letou"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
