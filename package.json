@@ -1,10 +1,13 @@
 {
-  "name": "WQdYCG5bmjUZmETgc29hXTwRxFnibtTrioCrmHovgEtyvk4rLr",
+  "name": "เกม - เว็บพนัน joker8899(โจ๊กเกอร์8899) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.4",
   "description": "เกม ไอดีไลน์ Imiwinbet ลิงค์ไลน์อ่านข่าวเพิ่มเติม คลิกสมัครสมาชิกแทงบอลออนไลน์ คลิก หากว่า เกม ที่ Joker8899 เว็บพนัน มีเกมพนันทุกชนิด",
   "repository": "https://github.com/gullibles-02/indoor-05",
-  "keywords": ["เกม","เกม Joker8899"],
+  "keywords": [
+    "เกม",
+    "เกม Joker8899"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
