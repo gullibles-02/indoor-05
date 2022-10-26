@@ -1,10 +1,13 @@
 {
-  "name": "HSXKS1JwuuFaIHoPO8kZNnplzjZBNCAmqSQFPmuFhKetYFLMzk",
+  "name": "เว็บพนันกีฬา สมัครยังไง",
   "theme": "syntax",
   "version": "1.0.32",
   "description": "เว็บพนันกีฬา ถ้าพูดถึงการ เพื่อ เว็บพนันกีฬา ที่ Lynsbobet เว็บพนัน อันดับหนึ่ง อ่านเค้าไพ่บาคาร่า คือสิ่งจำเป็น ที่นักพนันเสี่ยงดวง หรือ ท่านที่ชื่นชอบการ",
   "repository": "https://github.com/gullibles-02/indoor-05",
-  "keywords": ["เว็บพนันกีฬา","เว็บพนันกีฬา Lynsbobet"],
+  "keywords": [
+    "เว็บพนันกีฬา",
+    "เว็บพนันกีฬา Lynsbobet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
