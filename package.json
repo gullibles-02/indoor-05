@@ -1,13 +1,10 @@
 {
-  "name": "เว็บพนันออนไลน์ สมัครยังไง",
+  "name": "1I4F1XyRlFc8B05GcUPGDJN0EHP8V5EQrDrKabBOHGJRLYYvrT",
   "theme": "syntax",
   "version": "1.0.16",
   "description": "เว็บพนันออนไลน์ หลายๆ เว็บพนันออนไลน์ กับ เว็บพนันออนไลน์ 188bet เว็บพนันออนไลน์ อันดับหนึ่ง คนพออ่านมาถึงนี้แล้วอาจจะงงได้ เดี๋ยวไปดูวิธีการที่เป็นตัวอย่า",
   "repository": "https://github.com/gullibles-02/indoor-05",
-  "keywords": [
-    "เว็บพนันออนไลน์",
-    "เว็บพนันออนไลน์ 188bet"
-  ],
+  "keywords": ["เว็บพนันออนไลน์","เว็บพนันออนไลน์ 188bet"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
