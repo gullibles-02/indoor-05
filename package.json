@@ -1,13 +1,10 @@
 {
-  "name": "โบนัส ดูที่ไหน-",
+  "name": "mzm9YChMhCMbI0hi5sJuFx7UuG0ZH8GtyfKDW9mBtZrS7RCX1Q",
   "theme": "syntax",
   "version": "1.0.27",
   "description": "โบนัส การซื้อหวยออมสินก็ไม่ได้ต่างอะไรจากหวยตัวอื่นๆ แต่ โบนัส Next88 เว็บพนันออนไลน์ อันดับหนึ่ง รวมไปถึงหวยใต้ดินทั่วไปเลยค่ะ โบนัส จะว่าเหมือนกันเลยก็ได",
   "repository": "https://github.com/gullibles-02/indoor-05",
-  "keywords": [
-    "โบนัส",
-    "โบนัส Next88"
-  ],
+  "keywords": ["โบนัส","โบนัส Next88"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
