@@ -1,13 +1,10 @@
 {
-  "name": "เกมคาสิโนออนไลน์ สรุปว่าอะไร",
+  "name": "kSBGnyqrMNGO3lRDCOqiGZOELfwTqOfOmO8kah0l42RvDncd3J",
   "theme": "syntax",
   "version": "1.0.22",
   "description": "เกมคาสิโนออนไลน์ 3.Azteca หากว่า เกมคาสิโนออนไลน์ ที่ HotGraph88 เว็บพนัน อันดับหนึ่ง เกมนี้จะเป็นการเล่าเรื่องเกี่ยวกับ เกมคาสิโนออนไลน์ การผจญภัยของนักผจ",
   "repository": "https://github.com/gullibles-02/indoor-05",
-  "keywords": [
-    "เกมคาสิโนออนไลน์",
-    "เกมคาสิโนออนไลน์ HotGraph88"
-  ],
+  "keywords": ["เกมคาสิโนออนไลน์","เกมคาสิโนออนไลน์ HotGraph88"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
