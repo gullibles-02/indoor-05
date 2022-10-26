@@ -1,13 +1,10 @@
 {
-  "name": "เกม ดูยังไง",
+  "name": "RUpC1FgesxDwaEyfLT1SX9lahOhJ6JcqbwcEz6ml6Ucnfb5S9a",
   "theme": "syntax",
   "version": "1.0.13",
   "description": "เกม ขอแนะนำเว็บเกมออนไลน์ที่ฮอตฮิตและมาแรงในตอนนี้ เนื่องด้วย เกม ที่ G2GRich888 เว็บพนัน มีเกมพนันทุกชนิด เราเป็นดั่งกับคลังเกมเคลื่อนที่ ที่มีเกมเยอะมากก",
   "repository": "https://github.com/gullibles-02/indoor-05",
-  "keywords": [
-    "เกม",
-    "เกม G2GRich888"
-  ],
+  "keywords": ["เกม","เกม G2GRich888"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
