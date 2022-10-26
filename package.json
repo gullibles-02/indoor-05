@@ -1,10 +1,13 @@
 {
-  "name": "LUpMLjNDVzQvE1kfDA4nzh6zt3dtJBqJaU4L1MUuapHUnb4t5m",
+  "name": "เว็บพนันบอล เล่นที่ไหน",
   "theme": "syntax",
   "version": "1.0.28",
   "description": "เว็บพนันบอล สมัครฟรีโดยไม่เสียค่าใช้จ่ายใด ว่า เว็บพนันบอล ที่ Fifa55 เว็บพนัน มีเกมพนันทุกชนิด ๆ เล่นหวยได้เงินจริงโดยสมัครแทงหวยง่ายทุกเวลา เว็บหวยVip บร",
   "repository": "https://github.com/gullibles-02/indoor-05",
-  "keywords": ["เว็บพนันบอล","เว็บพนันบอล Fifa55"],
+  "keywords": [
+    "เว็บพนันบอล",
+    "เว็บพนันบอล Fifa55"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
