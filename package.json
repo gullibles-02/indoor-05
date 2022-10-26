@@ -1,13 +1,10 @@
 {
-  "name": "ค่ายเกมสล็อต ดูที่ไหน",
+  "name": "3SfyYOGDiktmSRyj1bB2u6Z2Xi2cBj7pci31LdKYuTwzd1X9SM",
   "theme": "syntax",
   "version": "1.0.26",
   "description": "ค่ายเกมสล็อต หลักสิบก็แทงได้ สำหรับ ค่ายเกมสล็อต Lv177 เว็บพนันออนไลน์ อันดับหนึ่ง พร้อมรับ โปรโมชั่นสล็อต  และก็โบนัสพิเศษมากมาย แจกให้ลูกค้าทุกคน เพราะเห",
   "repository": "https://github.com/gullibles-02/indoor-05",
-  "keywords": [
-    "ค่ายเกมสล็อต",
-    "ค่ายเกมสล็อต Lv177"
-  ],
+  "keywords": ["ค่ายเกมสล็อต","ค่ายเกมสล็อต Lv177"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
