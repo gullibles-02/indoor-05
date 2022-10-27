@@ -1,13 +1,10 @@
 {
-  "name": "ฮั่งเส็งบ่ายออกกี่โมง แตกต่างกันอย่างไร - เว็บใหม่ masurebet 2023 ล่าสุด",
+  "name": "qL7JYsqKKSBf7eHN7wSvKZwU0AO7qyc3cv7ogwqvtmfmXf8blf",
   "theme": "syntax",
   "version": "1.0.39",
   "description": "ฮั่งเส็งบ่ายออกกี่โมง หวยไทยรัฐ ของ ฮั่งเส็งบ่ายออกกี่โมง Masurebet มาชัวร์เบท หวยออนไลน์ มีหวยทุกชนิด งวด 16565 1-2-3-7-8หวยเดลินิวส์ งวด 16565 0-2-3-4-6-",
   "repository": "https://github.com/gullibles-02/indoor-05",
-  "keywords": [
-    "ฮั่งเส็งบ่ายออกกี่โมง",
-    "ฮั่งเส็งบ่ายออกกี่โมง Masurebet"
-  ],
+  "keywords": ["ฮั่งเส็งบ่ายออกกี่โมง","ฮั่งเส็งบ่ายออกกี่โมง Masurebet"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
