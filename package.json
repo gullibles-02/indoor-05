@@ -1,10 +1,16 @@
 {
-  "name": "R7BpTHIdvAlfUSmb6uYfrXeJZuVJtlSKGAkEH9YLvmbEHl5b7S",
+  "name": "จับยี่กี สูตร สมัครยังไง - เว็บใหม่ ruay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.55",
   "description": "จับยี่กี สูตร เพื่อความถูกต้องในการตรวจผลรางวัลหวยหุ้นฮั่งเส็ง หากว่า จับยี่กี สูตร ที่ Ruay เว็บหวยออนไลน์ อันดับหนึ่ง จับยี่กี สูตร ท่านสามารถตรวจสอบความ",
   "repository": "https://github.com/gullibles-02/indoor-05",
-  "keywords": ["จับยี่กี สูตร","จับยี่กี","สูตร","จับยี่กี Ruay","สูตร Ruay"],
+  "keywords": [
+    "จับยี่กี สูตร",
+    "จับยี่กี",
+    "สูตร",
+    "จับยี่กี Ruay",
+    "สูตร Ruay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
