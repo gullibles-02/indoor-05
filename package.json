@@ -1,10 +1,16 @@
 {
-  "name": "LKYjy8Dj5pLU8CpunLQvR22aGV45g86s2RiLKjsjwI59FqZHxG",
+  "name": "chok türkisch ที่ไหน - เว็บใหม่ huay24 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.64",
   "description": "chok türkisch บนเด่น หาก chok türkisch ที่ Huay24 เว็บหวยออนไลน์ อันดับหนึ่ง 67 ชุดเลข 3 ตัว และ 2 ตัว ดังนี้405-450-504-540-045-054108-180-801-810-018-081",
   "repository": "https://github.com/gullibles-02/indoor-05",
-  "keywords": ["CHOK TÜRKISCH","CHOK","TÜRKISCH","CHOK Huay24","TÜRKISCH Huay24"],
+  "keywords": [
+    "CHOK TÜRKISCH",
+    "CHOK",
+    "TÜRKISCH",
+    "CHOK Huay24",
+    "TÜRKISCH Huay24"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
