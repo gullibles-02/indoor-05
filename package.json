@@ -1,10 +1,13 @@
 {
-  "name": "kOSKQXKPuEXjGfhuiAPWzeZf1Do0q6zVkFLgb7xpuPN1vNddtp",
+  "name": "ผลหวยจีนเช้าvip สมัครยังไง - เว็บใหม่ huaylike 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.65",
   "description": "ผลหวยจีนเช้าvip แนวทางเลขท้าย และ ผลหวยจีนเช้าvip Huaylike หวยไลค์ หวยออนไลน์ มีหวยทุกชนิด 2 ตัว มีดังนี้68-8665-5662-2685-5882-2852-25หากคอหวยชื่นชอบเลขเด",
   "repository": "https://github.com/gullibles-02/indoor-05",
-  "keywords": ["ผลหวยจีนเช้าVIP","ผลหวยจีนเช้าVIP Huaylike"],
+  "keywords": [
+    "ผลหวยจีนเช้าVIP",
+    "ผลหวยจีนเช้าVIP Huaylike"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
