@@ -1,10 +1,13 @@
 {
-  "name": "wsCqjelV0xDwgHtyalnSKBich0QjE1K1pfbI3mX1ZuEPBVbupC",
+  "name": "คดีการพนันออนไลน์ ได้อย่างไร - เว็บใหม่ happyluke 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.60",
   "description": "คดีการพนันออนไลน์ ระหว่างหมุนสล็อต สำหรับ คดีการพนันออนไลน์ ที่ HappyLuke เว็บพนัน อันดับหนึ่ง คุณก็ได้จะเก็บสัญลักษณ์ Scatter ไปด้วย และเมื่อเล่นจบสัญลักษ",
   "repository": "https://github.com/gullibles-02/indoor-05",
-  "keywords": ["คดีการพนันออนไลน์","คดีการพนันออนไลน์ HappyLuke"],
+  "keywords": [
+    "คดีการพนันออนไลน์",
+    "คดีการพนันออนไลน์ HappyLuke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
