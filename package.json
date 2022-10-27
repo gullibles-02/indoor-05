@@ -1,10 +1,13 @@
 {
-  "name": "XFXGLA4bRQjVjfescFrMY0dl4GHGKeEqFCEHzZUNZ0RCnu6dAd",
+  "name": "huaysiam ดูยังไง - เว็บใหม่ huaylike 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.69",
   "description": "Huaysiam 13-3115-5117-7118-8119-9120-0228-8268-8661-16ทั้งนี้ขอแนะนำให้คอหวยนำชุดเลขเด็ดไปพิจารณากันอีกรอบ Huaysiam แม้ Huaysiam Huaylike หวยไลค์ หวยออนไลน",
   "repository": "https://github.com/gullibles-02/indoor-05",
-  "keywords": ["HUAYSIAM","HUAYSIAM Huaylike"],
+  "keywords": [
+    "HUAYSIAM",
+    "HUAYSIAM Huaylike"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
