@@ -1,13 +1,10 @@
 {
-  "name": "หวยหุ้นอียิปต์คืออะไร ทำไมถึงนิยม - เว็บใหม่ ruay 2023 ล่าสุด",
+  "name": "yIgLlU2ZXCgtueDyW4J2H5UZKNO3XHpAz0B2ByJ2reiegz68LE",
   "theme": "syntax",
   "version": "1.0.88",
   "description": "หวยหุ้นอียิปต์คืออะไร สูตรหวยแม่นๆ ทั้งนี้ หวยหุ้นอียิปต์คืออะไร Ruay รวย หวยออนไลน์ มีหวยทุกชนิด ฟรี จากเว็บหวยกวาง(Lottodeer) ที่มาพร้อมกับแนวทางเลขเด็ด ",
   "repository": "https://github.com/gullibles-02/indoor-05",
-  "keywords": [
-    "หวยหุ้นอียิปต์คืออะไร",
-    "หวยหุ้นอียิปต์คืออะไร Ruay"
-  ],
+  "keywords": ["หวยหุ้นอียิปต์คืออะไร","หวยหุ้นอียิปต์คืออะไร Ruay"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
