@@ -1,16 +1,10 @@
 {
-  "name": "สูตร หุ้นรัสเซีย เลือกยังไง - เว็บใหม่ huaysod 2023 ล่าสุด",
+  "name": "G4TfxQwwkOcBhykqUMCH6H3zvV4nfwdG2XVwZvHZkUTG5jX1HJ",
   "theme": "syntax",
   "version": "1.1.16",
   "description": "สูตร หุ้นรัสเซีย ผลหวยลาว แด่ สูตร หุ้นรัสเซีย Huaysod หวยสด หวยออนไลน์ มีหวยทุกชนิด สูตร หุ้นรัสเซีย 61264 ผลหวยพัฒนา 61264 ผลหวยลาววันนี้ ย้อนหลังผลหวยลา",
   "repository": "https://github.com/gullibles-02/indoor-05",
-  "keywords": [
-    "สูตร หุ้นรัสเซีย",
-    "สูตร",
-    "หุ้นรัสเซีย",
-    "สูตร Huaysod",
-    "หุ้นรัสเซีย Huaysod"
-  ],
+  "keywords": ["สูตร หุ้นรัสเซีย","สูตร","หุ้นรัสเซีย","สูตร Huaysod","หุ้นรัสเซีย Huaysod"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
